@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghostbot89
-- 👀 I’m interested in AI, Machine Learning and Cloud Computing
+- 👀 I’m interested in Cloud Computing, AI, Machine Learning, Coding
 - 🌱 I’m currently learning Python, Azure, Linux.
 - 📫 How to reach me : ghostbot10001@gmail.com
 
